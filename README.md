@@ -63,7 +63,7 @@ You will see the predicted results of test image in data/membrane/test
 ## New Features and Improvements
 
 - **This repository extends the original [zhixuhao/unet](https://github.com/zhixuhao/unet) with:**
-    - Full training set evaluation (reproducing Table 2 metrics: Dice, Pixel error, Rand error)
+    - Full training set evaluation (reproducing Table 1 metrics: Warp error, Pixel error, Rand error)
     - Improved data handling (support for train/image and train/label subfolders)
     - Example code for evaluation and metrics calculation
     - More robust and modular code structure
